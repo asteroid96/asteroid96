@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and marine geography
 - 🌱 I’m currently learning to code and design
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me by email fbhechanova@up.edu.ph
+- 📫 Reach me by email fbhechanova@up.edu.ph
 
 <!---
 asteroid96/asteroid96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
